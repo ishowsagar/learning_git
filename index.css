@@ -5,3 +5,7 @@ body {
     margin: 0;
     padding: 1rem;
 }
+
+header {
+    background-color: antiquewhite;
+}
